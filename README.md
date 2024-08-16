@@ -62,8 +62,6 @@ Desarrollo de un chatbot avanzado utilizando LLM que mejora la experiencia del u
 ¿Tienes un proyecto en mente? ¡Nos encantaría saber de ti!
 
 - **Correo Electrónico**: [contacto@lobodecrin.com](mailto:contacto@lobodecrin.com)
-- **Teléfono**: +54 11 1234 5678
-- **LinkedIn**: [linkedin.com/company/lobodecrin](https://www.linkedin.com/company/lobodecrin)
 
 ---
 
